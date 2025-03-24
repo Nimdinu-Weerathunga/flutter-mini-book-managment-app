@@ -116,7 +116,7 @@ class _HomePageState extends State<HomePage> {
                 const SizedBox(width: 10),
                 ElevatedButton(
                   onPressed: _addBook,
-                  child: const Text("📌Add"),
+                  child: const Text("Add"),
                 ),
               ],
             ),
